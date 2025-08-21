@@ -11,6 +11,7 @@
   I am a passionate <strong>Software Developer</strong> specializing in building scalable, reliable, and efficient back-end systems using <strong>.NET</strong> and modern database technologies.  
   Skilled in <strong>C++</strong>, <strong>C#</strong>, <strong>Microsoft SQL Server</strong>, and <strong>T-SQL</strong>, I enjoy solving complex problems, optimizing performance, and contributing to impactful teams.  
 
+
   🌱 Currently exploring advanced <strong>System Design</strong> and <strong>Cloud Technologies</strong>  
   💡 I believe in clean code, best practices, and continuous improvement  
   🎯 Goal: Become a top-tier <strong>Software Engineer</strong> contributing to large-scale applications  
